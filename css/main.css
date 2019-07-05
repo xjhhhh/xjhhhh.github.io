@@ -1820,7 +1820,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffffa7;
+  background: #8c63e0;
 }
 .feed-link,
 .chat {
@@ -2995,4 +2995,7 @@ ul.breadcrumb li+li:last-child {
   .pagination {
     margin: 8px 0 0;
   }
+}
+* {
+  cursor: url("../images/cursor.ico"), auto;
 }
