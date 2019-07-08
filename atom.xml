@@ -44,28 +44,6 @@
   </entry>
   
   <entry>
-    <title>hexo在next主题下如何添加分类和标签</title>
-    <link href="http://www.japi.club/2019/07/03/hexo%E5%9C%A8next%E4%B8%BB%E9%A2%98%E4%B8%8B%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE/"/>
-    <id>http://www.japi.club/2019/07/03/hexo在next主题下如何添加分类和标签/</id>
-    <published>2019-07-03T00:56:00.000Z</published>
-    <updated>2019-07-08T01:46:38.572Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="前端 - 搭建博客" scheme="http://www.japi.club/categories/%E5%89%8D%E7%AB%AF-%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-      <category term="搭建博客" scheme="http://www.japi.club/tags/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-    
-      <category term="next" scheme="http://www.japi.club/tags/next/"/>
-    
-      <category term="hexo" scheme="http://www.japi.club/tags/hexo/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Vue父子组件以及非父子组件通信</title>
     <link href="http://www.japi.club/2019/05/27/test/"/>
     <id>http://www.japi.club/2019/05/27/test/</id>
